@@ -2,7 +2,7 @@
 
 🌱 currently growing [TurnKey Trips](https://tktrips.com/) and bringing healthcare accessability to rural America.
 
-🤓 teaching data science & cognitive science at [UCSD](https://cogsci.ucsd.edu/))
+🤓 teaching data science & cognitive science at [UCSD](https://cogsci.ucsd.edu/)
 
 💬 love connecting with people
 
