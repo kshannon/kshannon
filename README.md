@@ -1,6 +1,6 @@
 ### Howdy, I'm [Kyle][website] 👋
 
-🌱 currently growing [TurnKey Trips](https://tktrips.com/) and bringing healthcare accessability to rural America.
+🌱 currently growing [TurnKey Trips][work] and bringing healthcare accessability to rural America.
 
 🤓 teaching data science & cognitive science at [UCSD](https://cogsci.ucsd.edu/)
 
@@ -15,5 +15,5 @@
 [<img align="left" alt="Kyle Shannon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   
 [website]: https://www.kmshannon.com/
-[work]: https://www.tktrips.com.com/
+[work]: https://tktrips.com/
 [linkedin]: https://www.linkedin.com/in/kmshannon/
